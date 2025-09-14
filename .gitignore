@@ -1,0 +1,50 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# System files
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large media files (consider using Git LFS)
+# Uncomment if you want to exclude large files
+# *.psd
+# *.xcf
+# *.wav
+# *.flac
+# *.mp4
+# *.mov
+# *.avi
+
+# Build/compiled files
+build/
+dist/
+output/
+generated/
+
+# Cache directories
+cache/
+.cache/
+
+# Node modules (if using npm/node tools)
+node_modules/
+
+# Python cache (if using Python tools)
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor specific
+*.sublime-*
+.atom/
